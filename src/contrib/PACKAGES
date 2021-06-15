@@ -1,0 +1,8 @@
+Package: rim
+Version: 0.4.0
+Imports: methods, Rcpp, R6, knitr, stringr, digest
+LinkingTo: Rcpp
+Suggests: testthat (>= 3.0.0),
+License: GPL (>= 3)
+MD5sum: 93d2b716705fac40944061b2ef76943e
+NeedsCompilation: yes
