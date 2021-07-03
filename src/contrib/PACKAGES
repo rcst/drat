@@ -6,3 +6,12 @@ Suggests: testthat (>= 3.0.0),
 License: GPL (>= 3)
 MD5sum: 93d2b716705fac40944061b2ef76943e
 NeedsCompilation: yes
+
+Package: rim
+Version: 0.4.1
+Imports: methods, Rcpp, R6, knitr, stringr, digest
+LinkingTo: Rcpp
+Suggests: testthat (>= 3.0.0),
+License: GPL (>= 3)
+MD5sum: f62e074b43bb0a1421e56ab8a0cb7162
+NeedsCompilation: yes
